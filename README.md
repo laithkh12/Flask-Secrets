@@ -53,7 +53,7 @@ The app will be hosted on http://127.0.0.1:5001.
   - If the credentials are incorrect, the user is redirected to the denied page.
 ## Folder Structure
 ```bash
-TinDog Project/
+Project/
 │
 ├── app.py                # Main Flask application file
 ├── templates/
