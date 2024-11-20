@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **TinDog Project** is a simple login system built using Flask and Flask-WTF forms. This project demonstrates a login page where users can enter their email and password to access the app. If the login credentials are correct, the user is redirected to a success page; otherwise, they are denied access.
+Simple login system built using Flask and Flask-WTF forms. This project demonstrates a login page where users can enter their email and password to access the app. If the login credentials are correct, the user is redirected to a success page; otherwise, they are denied access.
 
 ## Features
 
