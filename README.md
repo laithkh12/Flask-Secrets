@@ -1,4 +1,4 @@
-# TinDog Project - Flask Login System
+#  Flask Login System
 
 
 
