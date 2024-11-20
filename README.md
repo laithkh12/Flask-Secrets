@@ -1,7 +1,6 @@
 # TinDog Project - Flask Login System
 
-![Flask Logo](https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.svg)
-![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg)
+
 
 ## Overview
 
